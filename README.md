@@ -1,5 +1,7 @@
 # W3.CSS
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bc1ab10e22c44c5aa1fb9eb074392dc2)](https://www.codacy.com/manual/mezgoodle/W3Template?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mezgoodle/W3Template&amp;utm_campaign=Badge_Grade)
+
 W3.CSS is a modern CSS framework with built-in responsiveness. It supports responsive mobile first design by default, and it is smaller and faster than similar CSS frameworks.
 
 W3.CSS can also speed up and simplify web development because it is easier to learn, and easier to use than other CSS frameworks:
@@ -22,7 +24,6 @@ W3.CSS can also speed up and simplify web development because it is easier to le
 ```
 > *"Make it as simple as possible, but not simpler."* Albert Einstein
 
-
 ## W3.CSS is Free
 W3.CSS is free to use. No license is necessary.
 
@@ -40,15 +41,15 @@ Or download w3.css from [w3css_downloads](https://www.w3schools.com/w3css/w3css_
 There are some responsive W3CSS templates for you to use.
 You are free to modify, save, share, use or do whatever you want with them:
 
-* Food template
+*  Food template
 ![food_template](https://www.w3schools.com/w3css/img_temp_food_blog.jpg)
 
-* Food template
+*  Food template
 ![food_template](https://www.w3schools.com/w3css/img_temp_food_blog.jpg)
 
-* Cafe template
+*  Cafe template
 ![band_template](https://www.w3schools.com/w3css/img_temp_cafe.jpg)
 
-* I've tried to create template with all elements, result you can see [here](https://mezgoodle.github.io/W3Template/). (without images)
+*  I've tried to create template with all elements, result you can see [here](https://mezgoodle.github.io/W3Template/). (without images)
 
 Also you can see [all](https://www.w3schools.com/w3css/w3css_templates.asp) other templates
