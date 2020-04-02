@@ -41,15 +41,12 @@ Or download w3.css from [w3css_downloads](https://www.w3schools.com/w3css/w3css_
 There are some responsive W3CSS templates for you to use.
 You are free to modify, save, share, use or do whatever you want with them:
 
-*  Food template
+- Food template
 ![food_template](https://www.w3schools.com/w3css/img_temp_food_blog.jpg)
 
-*  Food template
-![food_template](https://www.w3schools.com/w3css/img_temp_food_blog.jpg)
-
-*  Cafe template
+- Cafe template
 ![band_template](https://www.w3schools.com/w3css/img_temp_cafe.jpg)
 
-*  I've tried to create template with all elements, result you can see [here](https://mezgoodle.github.io/W3Template/). (without images)
+- I've tried to create template with all elements, result you can see [here](https://mezgoodle.github.io/W3Template/). (without images)
 
 Also you can see [all](https://www.w3schools.com/w3css/w3css_templates.asp) other templates
