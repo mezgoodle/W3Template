@@ -20,7 +20,7 @@ W3.CSS can also speed up and simplify web development because it is easier to le
 
 <div class="w3-container w3-teal">
   <p>My Footer</p>
-</div> 
+</div>
 ```
 > *"Make it as simple as possible, but not simpler."* Albert Einstein
 
