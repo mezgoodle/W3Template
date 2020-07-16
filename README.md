@@ -1,6 +1,7 @@
 # W3.CSS
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bc1ab10e22c44c5aa1fb9eb074392dc2)](https://www.codacy.com/manual/mezgoodle/W3Template?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mezgoodle/W3Template&amp;utm_campaign=Badge_Grade)
+![Lint Code Base](https://github.com/mezgoodle/W3Template/workflows/Lint%20Code%20Base/badge.svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/273da545923a49ee9eb16ac1b4f3ab1c)](https://www.codacy.com/manual/mezgoodle/W3Template?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mezgoodle/W3Template&amp;utm_campaign=Badge_Grade)
 
 W3.CSS is a modern CSS framework with built-in responsiveness. It supports responsive mobile first design by default, and it is smaller and faster than similar CSS frameworks.
 
